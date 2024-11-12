@@ -1,0 +1,136 @@
+{
+  "node": {
+    "7f164f78cb027e1b858cd3f86e98f2c63fb84a4db9": {
+      "workers": {
+        "app/notes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-in/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-up/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/notes/page": "rsc",
+        "app/(auth-pages)/sign-in/page": "rsc",
+        "app/page": "rsc",
+        "app/(auth-pages)/sign-up/page": "rsc"
+      }
+    },
+    "7f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c": {
+      "workers": {
+        "app/notes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-in/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-up/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/notes/page": "rsc",
+        "app/(auth-pages)/sign-in/page": "rsc",
+        "app/page": "rsc",
+        "app/(auth-pages)/sign-up/page": "rsc"
+      }
+    },
+    "7f7afa39bf11643314b2b56915023e1727418b1311": {
+      "workers": {
+        "app/notes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-in/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-up/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/notes/page": "rsc",
+        "app/(auth-pages)/sign-in/page": "rsc",
+        "app/page": "rsc",
+        "app/(auth-pages)/sign-up/page": "rsc"
+      }
+    },
+    "7f952c823cfd2dc079a67883951bc3e6841c5260b5": {
+      "workers": {
+        "app/notes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-in/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-up/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/notes/page": "rsc",
+        "app/(auth-pages)/sign-in/page": "rsc",
+        "app/page": "rsc",
+        "app/(auth-pages)/sign-up/page": "rsc"
+      }
+    },
+    "7fa25748e77a673673408f949ff486fd215b066005": {
+      "workers": {
+        "app/notes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-in/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/(auth-pages)/sign-up/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fyuyayoda%2FDocuments%2FGitHub%2FNextjs-Supabase%2Fnextjs-supabese%2Fapp%2Factions.ts%22%2C%5B%5B%227f164f78cb027e1b858cd3f86e98f2c63fb84a4db9%22%2C%22signOutAction%22%5D%2C%5B%227f688cf06e6c69ec8c479dd31bb2aeb910c8c0c30c%22%2C%22resetPasswordAction%22%5D%2C%5B%227f7afa39bf11643314b2b56915023e1727418b1311%22%2C%22signInAction%22%5D%2C%5B%227f952c823cfd2dc079a67883951bc3e6841c5260b5%22%2C%22signUpAction%22%5D%2C%5B%227fa25748e77a673673408f949ff486fd215b066005%22%2C%22forgotPasswordAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/notes/page": "rsc",
+        "app/(auth-pages)/sign-in/page": "rsc",
+        "app/page": "rsc",
+        "app/(auth-pages)/sign-up/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Ou8wQTA92DY5rTQIcxvkG0SKWervudyxZylW4pi6vdY="
+}
